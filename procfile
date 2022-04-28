@@ -1,0 +1,2 @@
+web:npm start
+# when doing this we also have to go into the package.json and insert "start" to let it know to reference this
